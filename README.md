@@ -1,4 +1,4 @@
-# HealthCare Dashboard Project
+# HealthCare PharmaDashboard Project
 
 Welcome to the **Healthcare Pharma Dashboard** project. This repository contains a powerful Tableau dashboard designed to provide deep insights into healthcare operations, financial performance, and patient statistics.
 
